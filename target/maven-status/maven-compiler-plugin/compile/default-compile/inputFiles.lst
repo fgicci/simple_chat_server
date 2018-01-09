@@ -1,0 +1,9 @@
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/model/Message.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/gui/LocalUserTableModel.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/server/ChatServerProtocol.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/server/ChatServerSocket.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/gui/SimpleChatServerFrame.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/app/SimpleChatServer.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/model/LocalUser.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/service/LocalUserService.java
+/Users/fer.gicci/develop/projects/simplechatserver/src/main/java/edu/uel/cw/simplechatserver/service/LocalUserServiceManager.java
